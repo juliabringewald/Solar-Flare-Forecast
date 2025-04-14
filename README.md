@@ -9,7 +9,7 @@ Our approach uniquely combines binary and multiclass classification with differe
 Our findings indicate that Random Forest and XGBoost consistently demonstrate strong performance across all metrics, benefiting significantly from increased dimensionality. This study's insights enhance future research by optimizing dimensionality reduction techniques and informing model selection for astrophysical tasks. By integrating this newly acquired knowledge in future research, we can develop more accurate space weather forecasting systems and a deeper understanding of solar physics.
 
 
-#Dataset
+# Dataset
 
 For this study, we utilized a pre-processed dataset of solar flares based on Space-weather HMI Active Region Patches (SHARP) data, originally created by Liu et al. (2016), publicly available at https://iopscience.iop.org/article/10.3847/1538-4357/aa789b/meta#apjaa789bapp1. The SHARP dataset, developed by the SDO/HMI team (Bobra et al., 2014), provides magnetic field measurements and derived parameters for automatically identified and tracked active regions (ARs). The data covers a ~6.5-year period (May 2010–December 2016), covering the peak of Solar Cycle 24. The dataset includes 13 key magnetic field 7 parameters, identified by Bobra & Couvidat (2015) as strong predictors of solar flare activity.
 
