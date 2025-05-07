@@ -1,3 +1,6 @@
+Paper reference:
+https://doi.org/10.48550/arXiv.2505.03385
+
 # Solar Flare Forecast - A Comparative Analysis of Machine Learning Algorithms for Predicting Solar Flare Classes 
 
 Solar flares are among the most powerful and dynamic events in the solar system, resulting from the sudden release of magnetic energy stored in the Sun’s atmosphere. These energetic bursts of electromagnetic radiation can release up to 10^32 erg of energy, impacting space weather and posing risks to technological infrastructure and therefore require accurate forecasting of solar flare occurrences and intensities.
