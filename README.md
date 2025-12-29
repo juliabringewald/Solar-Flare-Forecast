@@ -1,5 +1,6 @@
 Paper reference:
-https://doi.org/10.48550/arXiv.2505.03385
+https://doi.org/10.48550/arXiv.2505.03385 (preprint)
+https://doi.org/10.3390/astronomy4040023
 
 # Solar Flare Forecast - A Comparative Analysis of Machine Learning Algorithms for Predicting Solar Flare Classes 
 
